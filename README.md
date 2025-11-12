@@ -1,8 +1,8 @@
 # The new andromeda
 
-Theme inspired of andromeda colors
+I gave the Andromeda theme a little twist.
 
-<!-- ![Overall interface](media/code.png) -->
+![Overall interface](media/code.png)
 
 Available for [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=soyreneon.the-new-andromeda) and for VSCode Compatible Editors (`Cursor`, `Windsurf`, etc) you can get it from [VSX Open Registry](https://open-vsx.org/extension/soyreneon/the-new-andromeda)
 

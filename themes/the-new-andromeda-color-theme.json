@@ -79,7 +79,6 @@
     {
       "scope": [
         "markup.list",
-        "text.xml string",
         "support.function",
         "meta.at-rule.extend",
         "entity.name.function",
@@ -88,11 +87,30 @@
         "meta.function-call.generic.python",
         "meta.at-rule.extend support.constant",
         "entity.other.attribute-name.class.jade",
-        "source.css entity.other.attribute-name",
-        "text.xml punctuation.definition.string"
+        "source.css entity.other.attribute-name"
       ],
       "settings": {
         "foreground": "#ffe66d"
+      }
+    },
+    {
+      "scope": [
+        "text.xml string",
+        "text.xml punctuation.definition.string",
+        "string",
+        "text.html.php string",
+        "markup.inline.raw",
+        "markup.inserted",
+        "punctuation.definition.string",
+        "punctuation.definition.markdown",
+        "text.html meta.embedded source.js string",
+        "text.html.php punctuation.definition.string",
+        "text.html meta.embedded source.js punctuation.definition.string",
+        "text.html punctuation.definition.string",
+        "text.html string"
+      ],
+      "settings": {
+        "foreground": "#30d0ff"
       }
     },
     {
@@ -166,24 +184,6 @@
       ],
       "settings": {
         "foreground": "#f88d00"
-      }
-    },
-    {
-      "scope": [
-        "string",
-        "text.html.php string",
-        "markup.inline.raw",
-        "markup.inserted",
-        "punctuation.definition.string",
-        "punctuation.definition.markdown",
-        "text.html meta.embedded source.js string",
-        "text.html.php punctuation.definition.string",
-        "text.html meta.embedded source.js punctuation.definition.string",
-        "text.html punctuation.definition.string",
-        "text.html string"
-      ],
-      "settings": {
-        "foreground": "#30d0ff"
       }
     }
   ],

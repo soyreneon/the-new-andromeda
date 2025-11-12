@@ -3,7 +3,7 @@
   "displayName": "The new andromeda",
   "description": "Theme inspired on andromeda colors",
   "publisher": "soyreneon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -11,7 +11,7 @@
     "Themes"
   ],
   "galleryBanner": {
-    "color": "#171A2F",
+    "color": "#1a1d26",
     "theme": "dark"
   },
   "repository": {

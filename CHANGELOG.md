@@ -4,6 +4,10 @@ All notable changes to the "the-new-andromeda" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.3] - 2025-11-12
+
+- Fix xml colors
+
 ## [v0.0.2] - 2025-11-12
 
 - First design
