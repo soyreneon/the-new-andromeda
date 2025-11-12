@@ -1,0 +1,21 @@
+{
+  "name": "the-new-andromeda",
+  "displayName": "The new andromeda",
+  "description": "Theme inspired on andromeda colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The new andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-new-andromeda-color-theme.json"
+      }
+    ]
+  }
+}
