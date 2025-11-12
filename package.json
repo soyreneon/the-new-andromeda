@@ -2,12 +2,34 @@
   "name": "the-new-andromeda",
   "displayName": "The new andromeda",
   "description": "Theme inspired on andromeda colors",
-  "version": "0.0.1",
+  "publisher": "soyreneon",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.15.0"
   },
   "categories": [
     "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#171A2F",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soyreneon/the-new-andromeda"
+  },
+  "icon": "media/logo.jpg",
+  "keywords": [
+    "andromeda",
+    "color-theme",
+    "dark",
+    "theme",
+    "tema",
+    "theme-tuner",
+    "colorful",
+    "vibrant",
+    "bright",
+    "colorblind"
   ],
   "contributes": {
     "themes": [

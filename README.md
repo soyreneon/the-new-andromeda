@@ -1,16 +1,11 @@
-# the-new-andromeda README
+# The new andromeda
 
-## Working with Markdown
+Theme inspired of andromeda colors
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<!-- ![Overall interface](media/code.png) -->
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Available for [VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=soyreneon.the-new-andromeda) and for VSCode Compatible Editors (`Cursor`, `Windsurf`, etc) you can get it from [VSX Open Registry](https://open-vsx.org/extension/soyreneon/the-new-andromeda)
 
-## For more information
+Created with [ThemeTuner](https://marketplace.visualstudio.com/items?itemName=soyreneon.themeeditor) extension
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Credits to [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) for the colors
