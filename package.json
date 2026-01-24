@@ -3,7 +3,7 @@
   "displayName": "The new andromeda",
   "description": "Theme inspired on andromeda colors",
   "publisher": "soyreneon",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.15.0"
   },
