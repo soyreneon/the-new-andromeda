@@ -4,6 +4,10 @@ All notable changes to the "the-new-andromeda" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [v0.0.5] - 2025-01-28
+
+- Add high contrast theme
+
 ## [v0.0.4] - 2025-12-23
 
 - Color enhancement

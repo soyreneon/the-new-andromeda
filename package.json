@@ -3,7 +3,7 @@
   "displayName": "The new andromeda",
   "description": "Theme inspired on andromeda colors",
   "publisher": "soyreneon",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -37,6 +37,11 @@
         "label": "The new andromeda",
         "uiTheme": "vs-dark",
         "path": "./themes/the-new-andromeda-color-theme.json"
+      },
+      {
+        "label": "The new andromeda high contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-new-andromeda-color-theme-high-contrast.json"
       }
     ]
   }
